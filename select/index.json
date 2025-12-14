@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "三日月サンセット",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-14T02:11:37.310482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三日月サンセット",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_三日月サンセット_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三日月サンセット",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_三日月サンセット_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三日月サンセット (FPM EVERLUST MIX)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_三日月サンセット_(FPM_EVERLUST_MIX)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三日月サンセット (FPM EVERLUST MIX)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_三日月サンセット_(FPM_EVERLUST_MIX)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mikazuki Sunset [三日月サンセット]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/05_Mikazuki_Sunset_[三日月サンセット]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "三日月サンセット",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/06_三日月サンセット_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "三日月サンセット (FPM EVERLUST MIX)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/07_三日月サンセット_(FPM_EVERLUST_MIX)_サカナクション.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三日月サンセット",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_三日月サンセット_サカナクション.txt"
+    }
+  ]
+}
